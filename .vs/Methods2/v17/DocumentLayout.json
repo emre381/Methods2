@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cigo_\\source\\repos\\Methods2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF9E59C-2116-4635-AE2F-2779B3976E19}|Methods2\\Methods2.csproj|c:\\users\\cigo_\\source\\repos\\methods2\\methods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF9E59C-2116-4635-AE2F-2779B3976E19}|Methods2\\Methods2.csproj|solutionrelative:methods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\Methods2\\Methods2\\Program.cs",
+              "RelativeDocumentMoniker": "Methods2\\Program.cs",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\Methods2\\Methods2\\Program.cs",
+              "RelativeToolTip": "Methods2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:27:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
